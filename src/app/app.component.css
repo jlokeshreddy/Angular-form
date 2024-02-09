@@ -1,0 +1,23 @@
+
+nav{
+    background-color: #0C2D57;
+    color: white;
+}
+button{
+    background-color: #0C2D57;
+    color: white;
+    margin: 10px;
+}
+button:disabled{
+    background-color: #0C2D57;
+    opacity: 0.5;
+    color: white;
+}
+button:hover{
+    background-color: #0C2D57;
+    color: white;
+    scale: 1.025;
+}
+.alertmessage{
+    color: #cc3333;
+}
